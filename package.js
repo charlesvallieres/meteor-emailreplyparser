@@ -3,7 +3,7 @@ Package.describe({
 })
 
 Npm.depends({
-  "emailreplyparser": "0.0.3"
+  "emailreplyparser": "https://github.com/charlesvallieres/emailreplyparser/tarball/4000a55d7d24bfbc10630d0742c0f0462fbd63a7"
 });
 
 Package.on_use(function (api, where) {

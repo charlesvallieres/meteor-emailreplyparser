@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "meteor-emailreplyparser": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "meteor-emailreplyparser": {
+        "path": "."
+      }
+    }
+  }
+}
