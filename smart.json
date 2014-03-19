@@ -1,0 +1,8 @@
+{
+  "name": "meteor-emailreplyparser",
+  "description": "Meteor smart package of the emailreplyparser node module.",
+  "homepage": "http://github.com/charlesvallieres/meteor-emailreplyparser",
+  "author": "Charles Vallières",
+  "version": "0.0.3",
+  "git": "https://github.com/charlesvallieres/meteor-emailreplyparser.git"
+}
